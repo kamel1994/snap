@@ -1,4 +1,4 @@
-========================================================================
+=====================================================================[![Run on Repl.it](https://repl.it/badge/github/liuchbryan/snap)](https://repl.it/github/liuchbryan/snap)===
   SNAP : Stanford Network Analysis Platform
 	http://snap.stanford.edu
 ========================================================================
